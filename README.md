@@ -1,6 +1,8 @@
 # NeetCode Practice
 
-My Python submissions for coding-interview practice, synced from NeetCode. This is a collection of individual exercises rather than a standalone application.
+My collection of Python exercises as I practice data structures, algorithms and coding interviews. Submissions are synced from NeetCode.
+
+This repo is more of a practice notebook than an app. Browse individual problems and compare attempts where there is more than one submission.
 
 ## Current topics
 
@@ -10,6 +12,12 @@ My Python submissions for coding-interview practice, synced from NeetCode. This 
 | [Python Coding Interviews](Python%20Coding%20Interviews/) | Ascending, descending and custom sorting; lambda sort keys; sorted copies; unpacking |
 
 Multiple `submission-N.py` files preserve separate attempts. Their presence alone does not establish that every attempt passed.
+
+## A few things to explore
+
+- Try duplicate detection with no duplicates, then with a duplicate at the very end.
+- Look at the anagram exercise and think about repeated letters, not just whether both strings contain the same letter types.
+- Compare the sorting exercises to see how a different key changes the order.
 
 ## Reading and running a solution
 
