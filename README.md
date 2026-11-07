@@ -12,3 +12,19 @@ The repository includes duplicate detection, anagram checks, sorting examples an
 These are individual exercises rather than an application or a shared test suite. Some submissions rely on the exercise platform’s harness and imports. When I revisit one, I check its expected input/output and run it in the appropriate harness.
 
 I’m using this repository to get more comfortable explaining the tradeoffs in my solutions, not just reaching an accepted answer.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/omuoguilim/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/omuoguilim/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/omuoguilim/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
+<!---LeetCode Topics End-->
