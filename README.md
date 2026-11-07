@@ -22,9 +22,18 @@ I’m using this repository to get more comfortable explaining the tradeoffs in 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/omuoguilim/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/omuoguilim/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/omuoguilim/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/omuoguilim/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/omuoguilim/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
